@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import HeaderView from './components/header';
 
 function App() {
   return (
     <div className="App">
-      <h1>Esta es la app del espacio</h1>
+      <HeaderView/>
     </div>
   );
 }
