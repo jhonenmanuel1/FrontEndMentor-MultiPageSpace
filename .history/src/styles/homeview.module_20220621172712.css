@@ -1,0 +1,42 @@
+body{
+    color: white;
+}
+.containerCard{
+    display: flex;
+    margin-top: 257px;
+    justify-content: center;
+    align-items: center;
+}
+.spaceinfo{
+    margin-right: 325px;
+}
+.homeSpaceTarget{
+    max-width: 461.76px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    
+}
+
+.homeSpaceTargeth3 {
+    font-weight: 1;
+    font-size: 34px;
+    margin: 0px;
+}
+.homeSpaceTargeth1{
+
+    font-family: 'Bellefair';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 128px;
+    line-height: 147px;
+    margin: 0px;
+}
+.homeSpaceTargetp{
+    font-size: 18px;
+}
+.explore{
+    position: absolute;
+    bottom: 0;
+}

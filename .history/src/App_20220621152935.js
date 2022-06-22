@@ -1,7 +1,6 @@
 import './App.css';
 import HeaderView from './components/header';
-import HomeView from './views/home';
-
+import HomeView from './components/views/home';
 
 function App() {
   return (

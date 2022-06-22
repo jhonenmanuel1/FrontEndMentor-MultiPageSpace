@@ -1,0 +1,18 @@
+body{
+    color: white;
+}
+.homeSpaceTarget{
+    max-width: 461.76px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.homeSpaceTargeth3 {
+    font-weight: 1;
+    font-size: 34px;
+}
+.homeSpaceTargeth1{
+    font-weight: 1;
+    font-size: 80px;
+}
