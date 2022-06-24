@@ -1,0 +1,10 @@
+.planetCardInfoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 445px;
+}
+.planetCardHeader {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,7 @@
+.planetCardInfoContainer{
+    max-width: 445px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
